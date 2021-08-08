@@ -4,15 +4,15 @@
 
 ## (1) Discovering
 
-![Website Picture](https://github.com/Ahmedwaleed22/The-Dark-Lord/pic1.png)
+![Website Picture](https://github.com/Ahmedwaleed22/The-Dark-Lord/blob/master/pic1.png)
 
 <p>As we can see it looks like that it's a normal page nothing strange in it let's check the source code</p>
 
-![Source Code Picture](https://github.com/Ahmedwaleed22/The-Dark-Lord/pic2.png)
+![Source Code Picture](https://github.com/Ahmedwaleed22/The-Dark-Lord/blob/master/pic2.png)
 
 <p>I found that there is a link to "source.php" let's check it</p>
 
-![Source.php File Picture](https://github.com/Ahmedwaleed22/The-Dark-Lord/pic3.png)
+![Source.php File Picture](https://github.com/Ahmedwaleed22/The-Dark-Lord/blob/master/pic3.png)
 
 <p>As we can see it has php code with some html let's check what can we do with it</p>
 
@@ -65,7 +65,7 @@ echo $solution;
 
 <p>You can add new cookie named "user" and asign "Tzo0OiJVc2VyIjoxOntzOjEwOiIAVXNlcgByb2xlIjtzOjk6IlZvbGRlbW9ydCI7fQ==" to it's value.</p>
 
-![Exploiting with "Cookie Editor"](https://github.com/Ahmedwaleed22/The-Dark-Lord/pic4.png)
+![Exploiting with "Cookie Editor"](https://github.com/Ahmedwaleed22/The-Dark-Lord/blob/master/pic4.png)
 
 ### (2) Using browser console
 
@@ -75,7 +75,7 @@ echo $solution;
 
 # That's it
 
-![Flag](https://github.com/Ahmedwaleed22/The-Dark-Lord/pic5.png)
+![Flag](https://github.com/Ahmedwaleed22/The-Dark-Lord/blob/master/pic5.png)
 
 ## Flag: FL@G{S3r!alizat!on_!s_D@ng3r0us}
 
